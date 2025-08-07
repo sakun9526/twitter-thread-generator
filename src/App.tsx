@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100 p-8">
       <div className="max-w-3xl mx-auto bg-white p-6 rounded shadow">
-        <h1 className="text-2xl font-bold mb-4">Twitter Thread Generator</h1>
+        <h1 className="text-2xl font-bold mb-4">Twitter Thread Generator 🧵</h1>
         <textarea
           className="w-full p-3 border rounded resize-none min-h-[150px] text-gray-800"
           placeholder="Paste your long paragraph here..."
